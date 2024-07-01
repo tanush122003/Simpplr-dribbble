@@ -1,0 +1,37 @@
+#logo1 {
+    height: 105px;
+}
+
+#navigate3 {
+    width: 72.8%;
+    padding-left: 2.2rem;
+    padding-right: 4rem;
+}
+
+#setme {
+    font-family: Arial, "Helvetica", sans-serif;
+    font-weight: 600;
+    color: black;
+    font-size: 0.9em;
+    padding-right: 1.3rem;
+    padding-left: 1.7rem;
+}
+
+#setme2{
+    font-weight: 400;
+    color: grey;
+}
+
+#foot{
+    margin-left: 7rem;
+    margin-top: -0.6rem;
+}
+
+#social{
+    margin-left: -2rem;
+}
+
+#lowfoot{
+    padding-left: 3rem;
+    padding-right: 2rem;
+}
